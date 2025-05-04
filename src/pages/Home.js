@@ -67,7 +67,7 @@ const Home = () => {
           variants={itemVariants}
           className="text-4xl md:text-5xl font-bold mb-4 inline-block text-transparent bg-clip-text bg-gradient-to-r from-blue-400 to-purple-600"
         >
-          QuizMaster Challenge
+          BrainBlitz Challenge
         </motion.h1>
         <motion.p
           variants={itemVariants}
