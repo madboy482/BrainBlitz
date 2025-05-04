@@ -27,7 +27,7 @@ const Layout = ({ children }) => {
           >
             <div className="flex items-center space-x-2">
               <span className="text-2xl md:text-3xl font-bold text-transparent bg-clip-text bg-gradient-to-r from-blue-400 to-purple-600">
-                QuizMaster
+                BrainBlitz
               </span>
             </div>
             
@@ -52,7 +52,7 @@ const Layout = ({ children }) => {
       <footer className="relative z-10 w-full p-4 md:p-6">
         <div className="max-w-7xl mx-auto">
           <div className="border-t border-white/10 pt-4 text-center text-sm text-gray-400">
-            <p>© {new Date().getFullYear()} QuizMaster. All rights reserved.</p>
+            <p>© {new Date().getFullYear()} BrainBlitz by madboy482. All rights reserved.</p>
           </div>
         </div>
       </footer>
